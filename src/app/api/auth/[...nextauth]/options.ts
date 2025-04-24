@@ -71,7 +71,7 @@
         //routes , nextauth does it by itself ie the page i dont need to work
         pages: {
           signIn : '/signIn',
-         
+       
 
         },
 
